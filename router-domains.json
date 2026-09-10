@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "asusrouter.com",
+        "fritz.box",
+        "itotolink.net",
+        "linksyssmartwifi.com",
+        "miwifi.com",
+        "mwlogin.net",
+        "my.keenetic.net",
+        "netis.cc",
+        "router.asus.com",
+        "routerlogin.com",
+        "routerlogin.net",
+        "tendawifi.com",
+        "tplinkdeco.net",
+        "tplinklogin.net",
+        "tplinkrepeater.net",
+        "tplinkwifi.net"
+      ]
+    }
+  ]
+}
