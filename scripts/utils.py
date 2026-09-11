@@ -16,7 +16,7 @@ def process_rule_set(name: str, rules_list: list):
     srs_path = os.path.join(PUBLISH_DIR, f"{name}.srs")
 
     new_data = {
-        "version": 1,
+        "version": 2,
         "rules": rules_list
     }
 
